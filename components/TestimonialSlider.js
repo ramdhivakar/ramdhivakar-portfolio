@@ -2,24 +2,24 @@
 const testimonialData = [
   {
     image: '/t-avt-1.png',
-    name: 'Anne Smith',
-    position: 'Customer',
+    name: 'Onstep Tech',
+    position: 'Client',
     message:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!',
-  },
-  {
-    image: '/t-avt-2.png',
-    name: 'Jane Doe',
-    position: 'Customer',
-    message:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!',
+      "Navigating the business landscape alone is no easy feat, but with Proxy Minds, I've found a dedicated partner in my entrepreneurial journey.",
   },
   {
     image: '/t-avt-3.png',
-    name: 'Jhon Doe',
-    position: 'Customer',
+    name: 'Kanavu Labs',
+    position: 'Client',
     message:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!',
+      "The innovative solutions and commitment to excellence have not only met but exceeded my expectations. Proxy Minds is not just a venture; it's a testament to what dedication and passion can achieve independently.",
+  },
+  {
+    image: '/t-avt-2.png',
+    name: 'Macle Studio',
+    position: 'Client',
+    message:
+      "Working with Proxy Minds has been a transformative experience. His innovative solutions and personalized approach exceeded our expectations.",
   },
 ];
 

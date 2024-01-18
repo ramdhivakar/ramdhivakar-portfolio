@@ -30,8 +30,8 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed tortor vitae ligula varius luctus. 
-            Sed euismod justo at lacus fermentum, ac vulputate massa dapibus.
+            I am a full-stack developer who navigates both frontend elegance and backend robustness, 
+            orchestrating a symphony of technology to bring ideas to life from concept to deployment.
           </motion.p>
           {/* button */}
           <div className="flex justify-center xl:hidden relative">
@@ -65,7 +65,7 @@ const Home = () => {
             animate="show" 
             exit="hidden" 
             transition={{duration: 1, ease: 'easeInOut'}}
-            className="w-full h-full max-w-[737px] max-h-[678px] absolute -bottom-32 lg:bottom-0 lg:right-[8%]">
+            className="w-full h-full max-w-[637px] max-h-[678px] absolute -bottom-32 lg:bottom-0 lg:right-[8%]">
           <Avatar />
         </motion.div>
       </div>

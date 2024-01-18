@@ -27,8 +27,9 @@ const Services = () => {
             animate="show" 
             exit="hidden"
             className='mb-4 max-w-[400px] mx-auto lg:mx-0'
-          >Lorem ipsum dolor sit amet, consectetur adipiscing 
-            elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          >At Proxy Minds, we offer a comprehensive suite of services to elevate your brand and boost your 
+          online presence. From creative branding to cutting-edge development and strategic SEO, we provide 
+          end-to-end solutions tailored to your business needs.
           </motion.p>
         </div>
         {/* slider */}

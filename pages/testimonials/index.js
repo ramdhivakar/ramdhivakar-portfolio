@@ -1,5 +1,7 @@
+/* eslint-disable react/no-unescaped-entities */
 import TestimonialSlider from "../../components/TestimonialSlider";
 import { motion } from "framer-motion";
+import Circles from '/components/Circles';
 import { fadeIn } from '../../variants';
 
 const Testimonials = () => {
@@ -12,7 +14,7 @@ const Testimonials = () => {
           animate="show"
           exit="hidden"
           className="h2 mb-2 xl:mb-0">
-          What Clients<span className="text-accent">say.</span>
+          What Client's<span className="text-accent">say.</span>
         </motion.h2>
         {/* slider */}
         <motion.div 
@@ -24,6 +26,7 @@ const Testimonials = () => {
           <TestimonialSlider />
         </motion.div>
       </div>
+      <Circles />
     </div>
   );
 };

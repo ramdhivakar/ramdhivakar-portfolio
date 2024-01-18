@@ -27,8 +27,9 @@ const Work = () => {
             animate="show" 
             exit="hidden"
             className='mb-4 max-w-[400px] mx-auto lg:mx-0'
-          >Lorem ipsum dolor sit amet, consectetur adipiscing 
-            elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          >
+            Bringing ideas to life with a fusion of creativity and precision. Each project is a testament to my 
+            commitment to excellence, blending innovation and meticulous craftsmanship.
           </motion.p>
         </div>
         {/* slider */}
