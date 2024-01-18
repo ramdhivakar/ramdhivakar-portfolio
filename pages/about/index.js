@@ -52,28 +52,24 @@ export const aboutData = [
         icons: [<FaFigma />, <SiAdobexd />, <SiAdobephotoshop />],
       },
       {
-        title: 'Backend',
+        title: 'Backend & DevOps',
         icons: [
           <FaNodeJs />,
-          <SiSpringboot />, 
-        ],
-      },
-      {
-        title: 'DevOps',
-        icons: [
+          <SiSpringboot />,
           <FaDocker />,
           <SiKubernetes />,
           <FaJava />, 
           <SiAmazonaws />, 
         ],
       },
+      
     ],
   },
   {
     title: 'experience',
     info: [
       {
-        title: 'Entrepreneurial Leader - Proxy Minds Technology',
+        title: 'Entrepreneurial Leader - Proxy Minds',
         stage: '2022 - present',
       },
       {
@@ -81,7 +77,7 @@ export const aboutData = [
         stage: '2021 - 2022',
       },
       {
-        title: 'Executive SDE-1 - Ninjacart Private Limited',
+        title: 'Executive SDE-1 - Ninjacart',
         stage: '2020 - 2021',
       },
       {
